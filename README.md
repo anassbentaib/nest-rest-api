@@ -31,6 +31,7 @@
 ```bash
 $ yarn install
 ```
+#PostgreSQL
 
 ## Running the app
 
