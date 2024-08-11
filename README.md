@@ -35,6 +35,7 @@ $ yarn install
 #PostgreSQL
 
 ## Running the app
+#npm run start:dev
 
 ```bash
 # development
